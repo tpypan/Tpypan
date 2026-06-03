@@ -3,8 +3,6 @@
 
 ## 💫 About Me:
 
-- 🔭 I’m currently working on [Contractual](https://www.contractual.ca)
-
 - 📄 Learn about some of my experiences [here](https://www.tony-pan.com/lab)
 
 
